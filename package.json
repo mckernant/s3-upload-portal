@@ -7,7 +7,7 @@
     "url": "https://github.com/jaydp17/s3-upload-portal/issues"
   },
   "dependencies": {
-    "aws-sdk": "2.138.0",
+    "aws-sdk": "2.814.0",
     "axios": "0.17.0",
     "bulma": "0.6.0",
     "copy-to-clipboard": "3.0.8",
